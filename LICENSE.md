@@ -1,4 +1,4 @@
-The hardware design is licensed for non commercial use as follows.  You may produce up to 5 completed ohmbre builds for sale, to allow for buying in medium quantities and to recoup some assembly costs.  Any more than that, please contact me, as sending some funds back to the project is necessary to keep it sustainable.
+The hardware design is licensed for non commercial use as follows.  You may produce up to 5 completed ohmbre builds for sale, to allow for buying in medium quantities, to recoup some assembly costs, and to spread usage of the module and software.  Any more than that, please contact me, as sending some funds back to the project is necessary to keep it sustainable.
 
 ## creative commons
 
